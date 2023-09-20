@@ -1,0 +1,43 @@
+Aula Compartilhada Git\GitHub
+
+https://www.canva.com/design/DAFG9SX0JuE/1pkzTAe9MqlG-rKiOZJKfg/view?utm_content=DAFG9SX0JuE&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink#10
+
+GitHub é um serviço baseado em nuvem que hospeda um sistema de controle de versão (VCS) chamado Git. 
+Ele permite que os desenvolvedores colaborem e façam mudanças em projetos compartilhados enquanto 
+mantêm um registro detalhado do seu progresso.
+
+Git- O sistema de controle de versão ajuda a acompanhar as mudanças feitas no código base. E mais, 
+ele também registra quem efetuou a mudança e permite a restauração do código removido ou modificado.
+
+COMMIT
+
+São conjuntos de mudanças feitas no projeto e são salvas como uma nova versão e que é salvo localmente.
+
+PUSH
+
+É a ação de pegar as mudanças feitas localmente, os commits, e manda para o repositório remoto.
+
+PULL
+
+Diferentemente do push, essa ação irá pegar as mudanças feitas no repositório remoto e aplicara as mudanças no seu projeto.
+
+BRANCH
+
+São ramificações feitas no seu projeto, funcionado de forma que modificações feitas numa branch não modifique a outra.
+
+MERGE
+
+Irá unificar duas branch em uma só e juntando todas as alterações
+
+CLONE
+
+Como o próprio nome já diz irá clonar um repositório para sua maquina
+
+GITHUB
+
+GIT BASH
+
+GITHUB DESKTOP
+
+
+
